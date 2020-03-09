@@ -27,7 +27,3 @@ Press i to run the iOS Simulator. This will automatically run the iOS Simulator 
 Press a to run the Android Emulator. Note that the emulator must be installed and started already before typing a otherwise it will throw an error in the terminal.
 
 You can also run the app in your device by installing expo app from the app store and then scanning the QR code.
-
-## License
-
-MIT © [Vikrant Negi](https://github.com/vikrantnegi)
